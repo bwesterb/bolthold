@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/timshannon/bolthold"
+	"github.com/bwesterb/bolthold"
 )
 
 func TestGet(t *testing.T) {
